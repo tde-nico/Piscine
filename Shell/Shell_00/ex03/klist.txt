@@ -1,0 +1,5 @@
+Credentials cache: API:D887FDFB-859A-4E06-BFB3-A3B08BD1A62B
+        Principal: tde-nico@42ROMA.IT
+
+  Issued                Expires               Principal
+Nov 24 10:07:19 2021  Nov 24 20:07:19 2021  krbtgt/42ROMA.IT@42ROMA.IT
