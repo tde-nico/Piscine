@@ -1,3 +1,3 @@
 # Piscine
 
-My 42 Rome Piscine experience
+My 42 Piscine experience
