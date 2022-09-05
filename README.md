@@ -1,5 +1,17 @@
 # Piscine
 
+<!--
+#groups
+42
+
+#languages
+Bash
+C
+
+#frames and libs
+
+-->
+
 My 42 Piscine experience
 
 <div align="center">
